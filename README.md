@@ -7,7 +7,7 @@
  
 Welcome to my Github page! I am Java && Full-Stack Engineer!  
  
-<img align="right" alt="img" src="https://github.com/XingyuHuang23/XingyuHuang23/blob/main/img/lakers.jpg" width="50%" height="auto" border-radius="50%" />
+<img align="right" alt="img" src="https://github.com/XingyuHuang23/XingyuHuang23/blob/main/img/lakers.jpg" width="50%" height="110%" border-radius="10" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
