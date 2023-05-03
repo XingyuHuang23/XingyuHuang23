@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xingyuhuang23)
 
 
-- 🍻 Master at NEU [PKU](https://www.northeastern.edu) in Information System 
+- 🍻 Master at [NEU](https://www.northeastern.edu) in Information System 
 - 🌱 Java / Full-Stack / Big fan of distribute system
 - 🏃 Basketball / Swimming / Guitar / Singing
 - ⚡ CSGO / Overwatcher
