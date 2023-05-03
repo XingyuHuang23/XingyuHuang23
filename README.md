@@ -3,7 +3,7 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/XingyuHuang23)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xingyuhuang23)
-[![Mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](huang.xingyu2@northeastern.edu)
+[![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](huang.xingyu2@northeastern.edu)
  
 Welcome to my Github page! I am Java && Full-Stack Engineer!  
  
