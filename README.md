@@ -12,20 +12,22 @@ Welcome to my Github page! I am Java && Full-Stack Engineer!
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Finding a full-time job now!🚀
-- Taking online courses to implement a enterprise application of Paas cloud-based platform
-
+- Taking online courses to implement a enterprise application of Paas cloud-based platform🔨
+- Enjoying the Laker Show🏀~
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Microservices architecture
+- Full Stack optimization
 - Cloud-native containerization
 - Reactive programming
 - Distributed system
 - Big data processing
-
+- Basketball / Swimming / Guitar / Singing
+- 
 #### 🌻 I am studying 🌻
 - Master of Information System in Northeastern University 🐺
 - Bachelor of software engineering in China
-- 
+ 
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
