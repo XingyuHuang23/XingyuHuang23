@@ -24,7 +24,7 @@ Welcome to my Github page! I am **Java BackEnd && Full-Stack Engineer**!
  
 #### 🌻 I am studying 🌻
 - Master of Information System in Northeastern University 🐺
-- Bachelor of software engineering in China 🐲
+- Bachelor of Software engineering in China 🐲
  
 #### :computer: Programming languages and tools :computer: : 
 <p>
