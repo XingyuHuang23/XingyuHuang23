@@ -30,7 +30,6 @@ Welcome to my Github page! I am Java && Full-Stack Engineer!
  
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg""></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
@@ -58,7 +57,7 @@ If you want to know more, please refer to the my [website](https://XingyuHuang23
 
 <!--
 **XingyuHuang23/XingyuHuang23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
