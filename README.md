@@ -19,9 +19,7 @@ Welcome to my Github page! I am **Java && Full-Stack Engineer**!
 - Microservices architecture
 - Full Stack optimization
 - Cloud-native containerization
-- Reactive programming
-- Distributed system
-- Big data processing
+- Big data processing / Distributed system
 - Basketball / Swimming / Guitar / Singing
  
 #### 🌻 I am studying 🌻
