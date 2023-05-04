@@ -52,7 +52,7 @@ Welcome to my Github page! I am Java && Full-Stack Engineer!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/xingyuHuang23/xingyuHuang23/img/lakers.jpg)</sub>
+<sub>I am actively looking for a SDE full-time opportunity (Grad in May 2023). Feel free to contact me via Linkedin or email(hxy980301@gmail.com), I would love to discuss my qualification and skills further. 😆👍</sub>
 If you want to know more, please refer to the my [website](https://XingyuHuang23.github.io).
 
 <!--
