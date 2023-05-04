@@ -20,7 +20,7 @@ Welcome to my Github page! I am **Java BackEnd && Full-Stack Engineer**!
 - Full Stack optimization
 - Cloud-native containerization
 - Big data processing / Distributed system
-- Basketball / Swimming / Guitar / Singing
+- Basketball / Swimming / Guitar / Networking
  
 #### 🌻 I am studying 🌻
 - Master of Information System in Northeastern University 🐺
