@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xingyuhuang23)
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](huang.xingyu2@northeastern.edu)
  
-Welcome to my Github page! I am **Java && Full-Stack Engineer**!  
+Welcome to my Github page! I am **Java BackEnd && Full-Stack Engineer**!  
  
 <img align="right" alt="img" src="https://github.com/XingyuHuang23/XingyuHuang23/blob/main/img/lakers.jpg" width="50%" height="auto" border-radius="10px" />
  
