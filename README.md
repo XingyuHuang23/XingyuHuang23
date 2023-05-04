@@ -52,7 +52,7 @@ Welcome to my Github page! I am Java && Full-Stack Engineer!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>
 </p>
 
-I am actively looking for a SDE full-time opportunity (Grad in May 2023). Feel free to contact me via Linkedin or email(hxy980301@gmail.com), I would love to discuss my qualification and skills further. 😆👍
+I am actively looking for a SDE full-time opportunity (Grad in May 2023). Feel free to contact me via Linkedin or email(huang.xingyu2@northeastern.edu), I would love to discuss my qualification and skills further. 😆👍
 <sub></sub>
 
 <!--
