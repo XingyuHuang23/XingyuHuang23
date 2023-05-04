@@ -29,9 +29,8 @@ Welcome to my Github page! I am Java && Full-Stack Engineer!
 - Bachelor of software engineering in China
  
 #### :computer: Programming languages and tools :computer: : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingyuHuang23&layout=compact)](https://github.com/xingyuHuang23)
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xingyuHuang23&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingyuHuang23&layout=compact)](https://github.com/xingyuHuang23)
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg""></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
