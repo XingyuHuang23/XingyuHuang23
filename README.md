@@ -49,7 +49,7 @@ Welcome to my Github page! I am **Java BackEnd && Full-Stack Engineer**!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 </p>
-
+</p>
 I am actively looking for a SDE full-time opportunity (Grad in May 2023). Feel free to contact me via Linkedin or email(huang.xingyu2@northeastern.edu), I would love to discuss my qualification and skills further. 😆👍
 <sub></sub>
 
