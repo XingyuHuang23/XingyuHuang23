@@ -7,7 +7,7 @@
  
 Welcome to my Github page! I am **Java BackEnd && Full-Stack Engineer**!  
  
-<img align="right" alt="img" src="https://github.com/XingyuHuang23/XingyuHuang23/blob/main/img/laker1.jpg" width="37%" height="auto" border-radius="10px" />
+<img align="right" alt="img" src="https://github.com/XingyuHuang23/XingyuHuang23/blob/main/img/laker1.jpg" width="36%" height="auto" border-radius="10px" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
@@ -28,7 +28,7 @@ Welcome to my Github page! I am **Java BackEnd && Full-Stack Engineer**!
  
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img width="35%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg""></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
