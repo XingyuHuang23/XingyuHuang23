@@ -13,7 +13,7 @@ Welcome to my Github page! I am **Java BackEnd && Web Full-Stack Engineer**!
 #### 🌱 Things I am currently working on 🌱 : 
 - Finding a full-time job now!🚀
 - Taking online courses to implement a Kubernetes with Rancher structure platform🔨
-- Enjoying the Laker Show🏀~
+- Enjoying the Laker Show🏀
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Microservices architecture
