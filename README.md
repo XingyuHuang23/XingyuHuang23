@@ -10,14 +10,14 @@ Welcome to my Github page! I am **Web Full-Stack Engineer**!
 
 #### Things I am currently working on  : 
 - Building the AI Agent platform @Yorg AI
-- Finding a full-time job now!
+- Finding a full-time job
   
 #### Things recent ones I'm interested in  : 
 - Full Stack optimization
 - Web Application architecture
 - Basketball / Swimming / Guitar / Networking
  
-#### I am studying
+#### Graduate From
 - Master of Information System in Northeastern University 
 - Bachelor of Software engineering in China 
  
