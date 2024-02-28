@@ -5,16 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xingyuhuang23)
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](huang.xingyu2@northeastern.edu)
  
-Welcome to my Github page! I am **Java && Web Full-Stack Engineer**!  
+Welcome to my Github page! I am **Web Full-Stack Engineer**!  
  
 <img align="right" alt="img" src="https://github.com/XingyuHuang23/XingyuHuang23/blob/main/img/laker1.jpg" width="30%" height="auto" border-radius="10px" />
  
- 
 #### 🌱 Things I am currently working on 🌱 : 
-- Finding a full-time job now!🚀
-- Taking online courses to implement a Kubernetes with Rancher structure platform🔨
-- Enjoying the Laker Show🏀
- 
+- Finding a front end full-time job now!🚀
+- Building the AI Agent platform...🔨
+
 #### ⚡ Things recent ones I'm interested in ⚡ : 
 - Microservices architecture
 - Full Stack optimization
@@ -29,15 +27,15 @@ Welcome to my Github page! I am **Java && Web Full-Stack Engineer**!
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingyuHuang23&layout=compact" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg""></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg""></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
