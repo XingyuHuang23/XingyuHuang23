@@ -8,20 +8,20 @@
 Welcome to my Github page! I am **Web Full-Stack Engineer**!  
  
 
-#### 🌱 Things I am currently working on 🌱 : 
-- Building the AI Agent platform...🔨
-- Finding a full-time job now!🚀
+#### Things I am currently working on  : 
+- Building the AI Agent platform @Yorg AI
+- Finding a full-time job now!
   
-#### ⚡ Things recent ones I'm interested in ⚡ : 
+#### Things recent ones I'm interested in  : 
 - Full Stack optimization
 - Web Application architecture
 - Basketball / Swimming / Guitar / Networking
  
-#### 🌻 I am studying 🌻
-- Master of Information System in Northeastern University 🐺
-- Bachelor of Software engineering in China 🐲
+#### I am studying
+- Master of Information System in Northeastern University 
+- Bachelor of Software engineering in China 
  
-#### :computer: Programming languages and tools :computer: : 
+#### :computer: Programming languages and tools : 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
